@@ -69,7 +69,7 @@ open port on : 4005 from inbound rules
                                   --------------------------- Inside Instamce-----------------------------------
 
 
-mkdir deployment
-cd deployment
-vi docker-compose.yml    (copy docker-compose.yml file and save )
-docker ps 
+1. mkdir deployment
+2. cd deployment
+3. vi docker-compose.yml    (copy docker-compose.yml file and save )
+4. docker ps 
