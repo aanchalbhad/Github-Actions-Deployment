@@ -40,6 +40,7 @@ sudo systemctl enable docker
 
 # Add current user to docker group
 sudo usermod -aG docker $USER
+sudo usermod -aG docker ubuntu
 
 
 # Install Docker Compose
