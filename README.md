@@ -7,7 +7,7 @@
 5. git remote add origin https://github.com/git-hub-account-name/repo-name.git
 6. git push -u origin main
 
-
+This is my Git practice.
                                   --------------------------Create instance and run below commands----------------------------------
 # Update system
 sudo apt update && sudo apt upgrade -y
